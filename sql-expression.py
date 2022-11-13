@@ -37,7 +37,8 @@ track_table = Table(
 # makig the connection
 with db.connect() as connection:
 
-    # Query 1 select all records from "Artist" table
+    
+    
     # select_query = artist_table.select()
 
     # Query 2 select only "Name" column from "Artist" table
